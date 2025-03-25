@@ -1,7 +1,7 @@
 const Header = () => {
     return (
       <>
-        <h1>안녕 리액트!</h1>
+        <h1>header</h1>
       </>
     );
   };
